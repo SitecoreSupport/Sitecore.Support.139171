@@ -5,8 +5,8 @@
     width: 100%;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
-    -ms-overflow-y: auto;
-    -ms-overflow-x: hidden;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
     .presetList .RadListBox {
