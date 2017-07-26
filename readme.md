@@ -1,5 +1,5 @@
 # Sitecore.Support.139171
-fix overflow in profile card(+IE)
+Fixed overflow styles in "Select Profile Card" dialog. User now can scroll the list of profile cards if there is too much cards.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.139171/blob/master/LICENSE).  
